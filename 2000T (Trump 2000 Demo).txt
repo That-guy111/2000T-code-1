@@ -28,7 +28,7 @@ campaignTrail_temp.candidate_json = [
             "party": "Independence Party of New York",
             "state": "New York",
             "priority": 4,
-            "description": "The new sheriff in the Reform town is Donald Trump, having recently secured the nomination overwhelmingly (in state’s Buchanan didn’t mess with). Now this New York billionaire has to make his case in America that they shouldn’t vote for politics as usual, and instead vote for him. He’s going to have all the trouble Perot had in his previous elections, with the trouble of failed business adventures and only a recent move into the party. However he has millions of dollars of his own money on top of the 13.4 million dollars of Federal Matching funds. He can take this election off the rails, but will he?",
+            "description": "The new sheriff in the Reform town is Donald Trump, having recently secured the nomination overwhelmingly (in state’s Buchanan didn’t mess with). Now this New York billionaire has to make his case in America that they shouldn’t vote for politics as usual, and instead vote for him. He’s going to have all the trouble Perot had in his previous elections, with the trouble of failed business adventures and only a recent move into the party. However he has millions of dollars of his own money on top of the 12.5 million dollars of Federal Matching funds. He can take this election off the rails, but will he?",
             "color_hex": "#FFFF00",
             "secondary_color_hex": "#FFFFC0",
             "is_active": 1,
